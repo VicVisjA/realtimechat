@@ -205,7 +205,3 @@ It serves as a **solid example of building a full-stack real-time system from sc
 
 ---
 
-# 👨‍💻 Author
-
-Full Stack Developer focused on building scalable web applications, real-time systems, and modern backend architectures.
-
