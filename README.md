@@ -205,3 +205,7 @@ It serves as a **solid example of building a full-stack real-time system from sc
 
 ---
 
+# Video
+
+https://github.com/user-attachments/assets/7c8596dd-e321-482b-9bae-afa31f1898e5
+
